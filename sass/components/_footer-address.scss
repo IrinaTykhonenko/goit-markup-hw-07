@@ -1,0 +1,26 @@
+.footer__address {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  margin-right: 70px;
+}
+
+.footer__span {
+  color: $white-color;
+  font-style: normal;
+  letter-spacing: 0.03em;
+  font-size: 14px;
+  line-height: 1.7;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+.footer__contacts {
+  color: $footer-address-color;
+  font-style: normal;
+  letter-spacing: 0.03em;
+  font-size: 14px;
+  line-height: 1.7;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 9px;
+}
