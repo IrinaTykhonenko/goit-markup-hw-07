@@ -32,10 +32,10 @@
   background-color: $footer-bg-color;
   border: 1px solid rgba(255, 255, 255, 0.3);
   border-radius: 4px;
-}
 
-.sign-input::placeholder {
-  color: rgba(255, 255, 255, 0.6);
+  &::placeholder {
+    color: rgba(255, 255, 255, 0.6);
+  }
 }
 
 .sign-btn {
